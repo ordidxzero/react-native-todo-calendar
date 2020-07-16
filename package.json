@@ -2,11 +2,13 @@
   "name": "react-native-todo-calendar",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "typings": "index.d.ts",
   "repository": "https://github.com/kim-macbook/react-native-todo-calendar.git",
   "author": "kim-macbook <creator@hanyang.ac.kr>",
   "license": "MIT",
   "dependencies": {
+    "@types/react": "^16.9.43",
+    "@types/react-native": "^0.63.0",
     "react": "^16.13.1",
     "react-native": "^0.63.0"
   },
