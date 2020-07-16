@@ -1,1 +1,1 @@
-export * from './src/Calendar/index';
+export * from './src/components/Calendar/index';
